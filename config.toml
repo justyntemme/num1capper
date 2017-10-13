@@ -1,4 +1,25 @@
-BaseURL			="https://num1.nextwavesolutions.io/"
-LanguageCode		="US-EN"
-Title			="Num1Capper"
-paginate		=5		
+baseurl		= "https://num1.nextwavesolutions.io/"
+title		= "Num1 Capper"
+theme		= "hugo-tracks-theme"
+languageCode	= "en-us"
+
+
+[params]
+style		= "defualt"
+description	= "Num1 Capper - Artist"
+copyright	= "&copy;2017 NextWave Solutions LLC"
+
+sidebarAbout	= "Num1 Capper: Me On Instagram / @ Num1.Capper Send Beats To capperbeats@yahoo.com 🅱️lock 🅱️oy"
+
+[[params.navlinks]]
+name 		= "Home"
+url		= ""
+
+[params.social]
+#facebook		= ""
+#googleplus		= ""
+email			= "capperbeats@yahoo.com"
+twitter			= "https://twitter.com/Num1Capper"
+instagram		="https://www.instagram.com/num1.capper/"
+
+
